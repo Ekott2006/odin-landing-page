@@ -42,7 +42,6 @@ header a,
 footer,
 .call-to-action {
   font-size: 18px;
-  color: #e5e7eb;
 }
 
 /* SIMPLE UTILITIES */
@@ -189,6 +188,7 @@ header a {
   justify-content: center;
   align-items: center;
   border-radius: 10px;
+  color: #f9faf8;
 }
 
 .call-to-action div {

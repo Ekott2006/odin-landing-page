@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Try the Landing Page here](https://ekott2006.github.io/odin-landing-page/)
+- [Check out the Landing Page](https://ekott2006.github.io/odin-landing-page/)
 
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
